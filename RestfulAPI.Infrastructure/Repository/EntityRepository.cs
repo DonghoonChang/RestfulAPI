@@ -1,5 +1,5 @@
 ﻿using System.Linq.Expressions;
-using RestfulAPI.Application.Repository;
+using RestfulAPI.Application.Repositories;
 using RestfulAPI.Domain.Common;
 
 namespace RestfulAPI.Infrastructure.Repository;
